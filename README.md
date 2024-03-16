@@ -32,4 +32,4 @@ Run the createzip function to interactively create a new code zip. You will be p
 Run the listzips function to display a list of available code zip.
 
 The new version will be updated....
-auto-zip
+auto-zip 1.0.3
