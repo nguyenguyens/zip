@@ -1,6 +1,6 @@
 {
   "name": "zip-fast",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "This could include features like tagging, searching, and integration with popular code editors.",
   "main": "./src/index.js",
   "scripts": {
